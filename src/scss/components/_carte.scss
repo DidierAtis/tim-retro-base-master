@@ -1,0 +1,15 @@
+.carte{
+
+  display: -webkit-inline-flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction:column;
+
+  background: var(--couleur-blanc);
+  width: 352px;
+  height: 367px;
+  left: 150px;
+
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+
+}

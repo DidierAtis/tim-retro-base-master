@@ -1,0 +1,22 @@
+
+.conteneur{
+
+  h3,p{
+    text-align: center;
+  }
+
+
+
+}
+
+div.cartes{
+  display: flex;
+  justify-content:center ;
+  flex-wrap: wrap;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+div.carte{
+  margin-right: 40px;
+  margin-bottom: 42px;
+}
